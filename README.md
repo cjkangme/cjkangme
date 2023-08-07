@@ -22,5 +22,11 @@
       <img src="https://img.shields.io/badge/mongoDB-09934E?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
   </div>
+
+### Posts
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=AIVLE)](https://github.com/eungyeole/velog-readme-stats)
+<br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=비트마스크)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
