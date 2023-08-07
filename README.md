@@ -27,6 +27,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=AIVLE)](https://github.com/eungyeole/velog-readme-stats)
 <br />
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=비트마스크)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=공모전/경진대회)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
