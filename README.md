@@ -8,6 +8,7 @@
     <div align="center">
       <img src="https://img.shields.io/badge/Python-2B516F?style=for-the-badge&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Dart-03589C?style=for-the-badge&logo=dart&logoColor=white">
     </div>
     <div align="center">
