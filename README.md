@@ -12,13 +12,13 @@
       <img src="https://img.shields.io/badge/Dart-03589C?style=for-the-badge&logo=dart&logoColor=white">
     </div>
     <div align="center">
-      <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white">
-      <img src="https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/Flutter-28B0EE?style=for-the-badge&logo=flutter&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
       <img src="https://img.shields.io/badge/Tensorflow-F78400?style=for-the-badge&logo=tensorflow&logoColor=white">
     </div>
     <div align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/mongoDB-09934E?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
