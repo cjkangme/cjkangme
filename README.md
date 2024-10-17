@@ -26,8 +26,8 @@
 
 ### Posts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=AIVLE)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=[LRM] Large Reconstruction Model For Single Image To 3D (논문 리뷰))](https://github.com/eungyeole/velog-readme-stats)
 <br />
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&tag=공모전/경진대회)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=[3DGS] 3D Gaussian Splatting for Real-Time Radiance Field Rendering)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
