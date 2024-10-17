@@ -26,8 +26,12 @@
 
 ### Posts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=[LRM] Large Reconstruction Model For Single Image To 3D (논문 리뷰))](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&slug=LRM-Large-Reconstruction-Model-For-Single-Image-To-3D)](https://github.com/eungyeole/velog-readme-stats)
 <br />
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=[3DGS] 3D Gaussian Splatting for Real-Time Radiance Field Rendering)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&slug=3D-Gaussian-Splattingfor-Real-Time-Radiance-Field-Rendering)](https://github.com/eungyeole/velog-readme-stats)
+<br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&slug=React에서-모바일-앱-같은-페이지-전환효과-만들기-1)](https://github.com/eungyeole/velog-readme-stats)
+<br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cjkangme&slug=제-4회-K-디지털트레이닝-해커톤-후기)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
